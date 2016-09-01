@@ -1,0 +1,15 @@
+{
+  "name": "backenddev",
+  "version": "1.0.0",
+  "description": ">\r - XE Core는 모델-뷰-컨트롤러(Model-View-Controller) 개발 패턴에 기반한다. 이것을 줄여서 MVC 구조라고 말한다.\r - MEAN Stack ? (MongoDB, Express.js, Angular.js, Node.js)",
+  "main": "()\u001b[D\u001b",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/greed1225/backenddev.git"
+  },
+  "author": "",
+  "license": "ISC"
+}
